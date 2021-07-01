@@ -22,7 +22,6 @@ Admins in their turn can:
 <ul>
   <li>Spring Core, Web, Security</li>
   <li>Hibernate</li>
-  <li>Servlet</li>
   <li>MySql</li>
   <li>Json</li>
   <li>Tomcat 9.0.46</li>
